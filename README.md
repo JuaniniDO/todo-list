@@ -11,13 +11,11 @@ Requisitos para el software y otros para construir, probar y empujar.
 
 ### Installing
 Serie de ejemplos para iniciar el terminal local.
-| ==Git init== |
-|----------| 
+|Git init|
+|--------|
 Y repite hasta terminar.
-| ==Git pull== |
-|--------------|
-
-
+|Git pull|
+|--------|
 - [ ] Deployment
 - [ ] Built With 
 - [ ] Authors
