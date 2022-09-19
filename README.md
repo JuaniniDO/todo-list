@@ -9,7 +9,15 @@ Requisitos para el software y otros para construir, probar y empujar.
 1. Ejemplo [Github](https://github.com/).
 2. Ejemplo [Visual Studio Code](https://code.visualstudio.com/download).
 
-- [ ] Installing
+### Installing
+Serie de ejemplos para iniciar el terminal local.
+| ==Git init== |
+|----------| 
+Y repite hasta terminar.
+| ==Git pull== |
+|--------------|
+
+
 - [ ] Deployment
 - [ ] Built With 
 - [ ] Authors
