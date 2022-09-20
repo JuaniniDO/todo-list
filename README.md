@@ -34,7 +34,7 @@ Agregue notas adicionales para implementar esto en un sistema.
 ### Authors
 - **Programador A** - *Provided README Template* - [Profile A] (https://github.com/JuaniniDO A)
 
--**Programador B** - *Provided README Template* - [Profile A] (https://github.com/Nachomg93 B)
+- **Programador B** - *Provided README Template* - [Profile A] (https://github.com/Nachomg93 B)
 
 Ver también lista de [contribuidores](https://github.com/JuaniniDO/todo-list/graphs/contributors) que han participado en este proyecto.
 
