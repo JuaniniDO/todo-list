@@ -24,7 +24,19 @@ Y repite.
 Termine con un ejemplo de obtener algutos datos del sistema o utilizarlo para una pequeña demostración.
 
 
-- [ ] Deployment
-- [ ] Built With 
-- [ ] Authors
-- [ ] License 
+### Deployment
+Agregue notas adicionales para implementar esto en un sistema.
+
+### Built With 
+- [Contributor Covenant](https://campus.codespaceacademy.com/mod/resource/view.php?id=4992) - Utilizado para el conducto de conducta.
+- [Creative Commons](https://github.com/) - Utilizado para elegir la licencia.
+
+### Authors
+- **Programador A** - *Provided README Template* - [Profile A] (https://github.com/JuaniniDO A)
+
+-**Programador B** - *Provided README Template* - [Profile A] (https://github.com/Nachomg93 B)
+
+Ver también lista de [contribuidores](https://github.com/JuaniniDO/todo-list/graphs/contributors) que han participado en este proyecto.
+
+### License 
+Este proyecto tiene [licencia](https://github.com/JuaniniDO/todo-list/search?q=license), podemos observar más detalles en dicho enlace.
