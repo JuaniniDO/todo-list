@@ -6,18 +6,22 @@ Para más información puedes visitar [Repositorio Todo-list](https://github.com
 A continuación mostramos las instrucciones para realizar una copia local donde poder realizar prueba o desarrollar el proyecto.
 ### Prerequisites
 Requisitos para el software y otros para construir, probar y empujar.
-1. Ejemplo [Github](https://github.com/).
-2. Ejemplo [Visual Studio Code](https://code.visualstudio.com/download).
+- Ejemplo [Github](https://github.com/).
+- Ejemplo [Visual Studio Code](https://code.visualstudio.com/download).
 
 ### Installing
-Serie de ejemplos para iniciar el terminal local.
-|Git init|
+Serie de ejemplos paso a paso que le indican cómo poner en marcha un entorno de desarrollo. 
+
+Di cual sera el paso.
+|`Git init`|
 |--------|
 
 
-Y repite hasta terminar.
-|Git pull|
+Y repite.
+|`Git pull`|
 |--------|
+
+Termine con un ejemplo de obtener algutos datos del sistema o utilizarlo para una pequeña demostración.
 
 
 - [ ] Deployment
